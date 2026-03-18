@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-✨ I’m not just coding — I’m building **smart, impactful solutions**  
+✨ Trying to build**smart, impactful solutions**  
 🤖 Currently exploring how **AI can solve real-world problems**  
 💡 Interested in **Backend Development + AI Integration**  
 ⚡ Love turning ideas into working products  
