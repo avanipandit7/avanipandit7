@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Avani%20Pandit&fontSize=40&fontColor=ffffff" />
-</h1>
 
 <h1 align="center">Hi 👋, I'm Avani</h1>
 
 <h3 align="center">🚀 B.Tech Student | 💻 Developer | 🤖 Exploring AI & Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Smart+Solutions+with+AI;Java+%7C+Web+Development+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Smart+Solutions+with+AI;Java+%7C+Web+Development+%7C" />
 </p>
 
 ---
