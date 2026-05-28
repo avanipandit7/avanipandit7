@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avani</h1>
 <h3 align="center">🚀 B.Tech Student | 💻 Developer | 🤖 Exploring AI & Innovation</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Smart+Solutions+with+AI;Java+%7C+Web+Development+%7C" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+%7C+Web+Development+%7C" />
 </p>
 
 ---
